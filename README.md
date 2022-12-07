@@ -14,7 +14,7 @@ A ==B değildir Gecer B ==C Değildir. C == D? bakar degldir  yan yana sorguyu g
 Sonra A == E mi bakar Yani A değeri 64 olduğunu var sayalım E 64 ise yukarı oka basıp A ve E'yi birleştirir.
 degilse her satırı böyle böyle sorgular.  B geçer B==F'ye eşit mi valuesi bakar. C == G mi bakar. 
 
-Yan yana baktıktan sonra altındaki değere bakar eğer bir eşit değer yoksa diğer satıra geçip sorgulamaya devam eder.
+Yan yana baktıktan sonra altındaki değere bakar eğer bir eşit değer yoksa diğer satıra geçip sorgulamaya devam eder. Buradaki eşit eşit mantığı a karesinde bulunan değerin valuesidir. Valueler eşit ise hangi tuşa basması gerekiyorsa onu bastırtıyoruz. Eğer eşit değil ise sorguya devam ediyoruz.
 
 Algoritmaya giriş için bu mantığı kurmanız gerekmete. 
 
