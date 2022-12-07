@@ -16,7 +16,7 @@ degilse her satırı böyle böyle sorgular.  B geçer B==F'ye eşit mi valuesi 
 
 Yan yana baktıktan sonra altındaki değere bakar eğer bir eşit değer yoksa diğer satıra geçip sorgulamaya devam eder. Buradaki eşit eşit mantığı a karesinde bulunan değerin valuesidir. Valueler eşit ise hangi tuşa basması gerekiyorsa onu bastırtıyoruz. Eğer eşit değil ise sorguya devam ediyoruz.
 
-Algoritmaya giriş için bu mantığı kurmanız gerekmekte. 
+Algoritmaya giriş için bu mantığı kurmanız gerekmekte.  videonun son 15-20sn durdura durdura bakarsanız algoritmanın mantığını göreceksiniz.
 
 
 https://www.youtube.com/watch?v=J-rcCUHfv8Y
